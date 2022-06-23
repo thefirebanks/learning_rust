@@ -1,3 +1,4 @@
+// From Let's Get Rusty Chapter 2: https://youtu.be/H0xBSbnQYds
 use std::io;
 use std::cmp::Ordering;
 use rand::Rng;
